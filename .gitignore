@@ -203,3 +203,6 @@ registry.json
 # files created by the gitty agent in python/samples/gitty
 .gitty/
 .aider*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
